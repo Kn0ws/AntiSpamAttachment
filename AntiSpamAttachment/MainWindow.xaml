@@ -1,0 +1,20 @@
+﻿<Window x:Class="AntiSpamAttachment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AntiSpamAttachment"
+        mc:Ignorable="d"
+        Title="アンチスパムメールアタッチメント. Developed by Kn0ws" Height="390" Width="524">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="extensions" Text=".xlsm;" HorizontalAlignment="Center" Margin="0,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="466" Height="22" Grid.Column="1"/>
+        <Button Name="submit" Content="実行" HorizontalAlignment="Left" Height="59" Margin="215,227,0,0" VerticalAlignment="Top" Width="98" Grid.Column="1" FontSize="20" Click="submit_Click"/>
+        <Label Content="アンチスパムメールアタッチメントは、昨今急増中の迷惑メールに添付されている&#xa;添付ファイルをOutlook上からブロック・非表示にします。&#xa;以下の手順に沿って「実行ボタン」を押してください。" HorizontalAlignment="Left" Height="64" Margin="14,10,0,0" VerticalAlignment="Top" Width="500" Grid.Column="1"/>
+        <Label Content="1. ブロックする添付ファイルの拡張子(.〇〇)を入力ください。&#xa;(複数の場合は「;」[セミコロン]で区切ります。)" Grid.ColumnSpan="2" HorizontalAlignment="Left" Margin="14,88,0,0" VerticalAlignment="Top" Height="48" Width="500"/>
+
+    </Grid>
+</Window>

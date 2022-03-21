@@ -1,0 +1,14 @@
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\bin\Release\AntiSpamAttachment.exe
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\bin\Release\AntiSpamAttachment.pdb
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.csproj.AssemblyReference.cache
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\MainWindow.g.cs
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\App.g.cs
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment_MarkupCompile.cache
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment_MarkupCompile.lref
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\MainWindow.baml
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.g.resources
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.Properties.Resources.resources
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.csproj.GenerateResource.cache
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.csproj.CoreCompileInputs.cache
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.exe
+C:\Users\kn0ws\source\repos\AntiSpamAttachment\AntiSpamAttachment\obj\Release\AntiSpamAttachment.pdb
